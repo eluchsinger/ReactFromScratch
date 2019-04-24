@@ -1,0 +1,11 @@
+{
+  "name": "reactfromscratch",
+  "version": "0.0.1",
+  "description": "Just a demo about starting react from scratch",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Esteban Luchsinger",
+  "license": "MIT"
+}
